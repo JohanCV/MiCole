@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MiCole</string>
+    <string name="app_name">Mi Cole</string>
+
+    <string name="bienvenido">Bienvenido</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+
+    <string name="curso">Cursos</string>
+    <string name="asistencia">Asistencia</string>
+    <string name="perfil">Perfil</string>
+
 </resources>
